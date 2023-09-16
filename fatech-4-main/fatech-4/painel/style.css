@@ -31,6 +31,7 @@ section{
 }
 section.login{
     background-color:#F4F4F4;
+    margin-top: 10vh;
 }
 .login input{
     border-radius:50px;
@@ -41,3 +42,19 @@ section.login{
 }
 
 /*Esse codigo foi escrito por Eduardo Salamon Schimmel, preste atenção! */
+
+.menu{
+    background-color: #323232;
+    height: 100vh;
+    float: left;
+    width: 250px;
+    text-align: center;
+}
+.menu a{
+    color: #fff;
+    text-decoration: none;
+}
+.menu li{
+    background-color: #5AA;
+    margin: 10px;
+}
